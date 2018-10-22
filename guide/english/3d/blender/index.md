@@ -14,3 +14,5 @@ Blender is free and open source software, released under the  *GNU General Publi
 * [Blender Official Website](https://www.blender.org)
 * [Blender Documentation](https://docs.blender.org/)
 * [The Blender Foundation](https://www.blender.org/foundation/)
+
+Interested in getting started in Blender? Little Web Hut is a great resource to learn the basics on Blender modeling in a fun way: http://www.littlewebhut.com/
